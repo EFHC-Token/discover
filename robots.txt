@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://efhc-token.github.io/discover/sitemap.xml
